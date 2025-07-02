@@ -1,12 +1,6 @@
 # Work-In-Progress
 This project isn't ready yet! It will take some time to actually build.
 
-## Demo:
-
-Online version of this project is available at:
-<br>
-> [DEMO](https://comic.rosesintheflames.com/)
-
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
